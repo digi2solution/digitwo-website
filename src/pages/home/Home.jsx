@@ -1,5 +1,4 @@
 import Hero from "../../components/hero/Hero"
-import ShuffleHero from "../../components/hero/ShuffleHero"
 
 const Home = () => {
   return (
