@@ -1,3 +1,5 @@
+import WhyUs from "../../components/WhyUs/WhyUs"
+import About from "../../components/WhyUs/WhyUs"
 import Hero from "../../components/hero/Hero"
 
 const Home = () => {
@@ -7,6 +9,7 @@ const Home = () => {
         Welcome to DigiTwo Solutions 🚀
       </h1>
       <Hero/>
+      <WhyUs/>
     </div>
   )
 }
